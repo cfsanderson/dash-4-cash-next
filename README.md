@@ -1,6 +1,8 @@
 # Dash 4 Cash (Re-architected)
 
-A modern, social running and charity app built with:
+This is a reboot of https://github.com/cfsanderson/dash-4-cash
+
+The goal is to build a modern, social running and charity app built with:
 - **Next.js (React + TypeScript)**
 - **Tailwind CSS**
 - **Supabase (PostgreSQL, Auth, API)**
